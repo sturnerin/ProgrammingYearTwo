@@ -12,6 +12,6 @@
 Номер задания|Описание|Код
 ---|:---:|---:
 1|Виселица|Пропустила
-2|Пользователи GitHub|
+2|Пользователи GitHub|[код](https://github.com/sturnerin/ProgrammingYearTwo/tree/master/HW-2)
 
 ![](https://wmpics.pics/di-R3ME.jpg)
