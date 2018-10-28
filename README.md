@@ -13,5 +13,6 @@
 ---|:---:|---:
 1|Виселица|пропустила
 2|Пользователи GitHub|[папка с кодом](https://github.com/sturnerin/ProgrammingYearTwo/tree/master/HW-2)
+3|Газетный корпус|
 
 ![](https://wmpics.pics/di-R3ME.jpg)
