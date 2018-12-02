@@ -1,0 +1,16 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html>
+	<head><META http-equiv="Content-Type" content="text/html; charset=utf-8"></head>
+	<body>
+		<h1>Поиск</h1>
+	<div>
+		<form method="POST" target="_blank" action="{{url_for('results')}}"> 
+			Ищем слово: <input type="text" name="word"><br>
+			<br>
+			Для тех у кого родной язык - русский?<br>
+			<label><input type="radio" checked name="motherus" value="русский">да</label><br>
+			<label><input type="radio" name="motherus" value="нерусский">нет</label><br>
+			<br>
+			<input type="submit" value="Найди!">
+		</form>
+	</div>
+</body></html>
