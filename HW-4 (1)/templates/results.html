@@ -1,0 +1,11 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html>
+	<head><META http-equiv="Content-Type" content="text/html; charset=utf-8"></head>
+<body>
+        <h1>Найдено по запросу: {{word}}, для тех у кого родной язык: {{motherus}} </h1>
+        <ul>
+        {% for text in results %}
+        <li> {{ text }} </li>
+        {% endfor %}
+        </ul>        
+</body>
+    
