@@ -16,5 +16,6 @@
 3|Газетный корпус|[код](https://github.com/sturnerin/ProgrammingYearTwo/tree/master/HW-3), [материалы](https://cloud.mail.ru/public/LjXw/ERG9ASmrX)
 4|Flask-анкета|[пугающая папка](https://github.com/sturnerin/ProgrammingYearTwo/tree/master/HW-4%20(1))
 5|Поисковик для корпуса|[папка](https://github.com/sturnerin/ProgrammingYearTwo/tree/master/HW-5)
+6|VK API|[корпус](https://cloud.mail.ru/public/rBKk/5qUTMY7VU)
 
 ![](https://wmpics.pics/di-R3ME.jpg)
