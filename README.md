@@ -17,5 +17,6 @@
 4|Flask-анкета|[пугающая папка](https://github.com/sturnerin/ProgrammingYearTwo/tree/master/HW-4%20(1))
 5|Поисковик для корпуса|[папка](https://github.com/sturnerin/ProgrammingYearTwo/tree/master/HW-5)
 6|VK API|[папка](https://github.com/sturnerin/ProgrammingYearTwo/tree/master/HW-6), [корпус](https://cloud.mail.ru/public/rBKk/5qUTMY7VU)
+последний|Проект|[Если здесь все еще есть этот текст, что-то пошло не так. Зато скрипт дает пять баллов факультету за слово-пасхалку](https://github.com/sturnerin/NotGaiman/tree/master/TheSimplest)
 
 ![](https://wmpics.pics/di-R3ME.jpg)
