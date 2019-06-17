@@ -17,6 +17,6 @@
 4|Flask-анкета|[пугающая папка](https://github.com/sturnerin/ProgrammingYearTwo/tree/master/HW-4%20(1))
 5|Поисковик для корпуса|[папка](https://github.com/sturnerin/ProgrammingYearTwo/tree/master/HW-5)
 6|VK API|[папка](https://github.com/sturnerin/ProgrammingYearTwo/tree/master/HW-6), [корпус](https://cloud.mail.ru/public/rBKk/5qUTMY7VU)
-последний|Проект|[папка](https://github.com/sturnerin/NotGaiman/tree/master/notgaiman)
+последний|Проект|[папка](https://github.com/sturnerin/ProgrammingYearTwo/tree/master/FinalProject)
 
 ![](https://wmpics.pics/di-R3ME.jpg)
