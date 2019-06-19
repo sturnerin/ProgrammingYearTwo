@@ -17,6 +17,6 @@
 4|Flask-анкета|[пугающая папка](https://github.com/sturnerin/ProgrammingYearTwo/tree/master/HW-4%20(1))
 5|Поисковик для корпуса|[папка](https://github.com/sturnerin/ProgrammingYearTwo/tree/master/HW-5)
 6|VK API|[папка](https://github.com/sturnerin/ProgrammingYearTwo/tree/master/HW-6), [корпус](https://cloud.mail.ru/public/rBKk/5qUTMY7VU)
-последний|Проект|[Папка. Загрузить на Heroku не удалось, но все работает. Бота зовут @notgaimanbot](https://github.com/sturnerin/ProgrammingYearTwo/tree/master/FinalProject)
+последний|Проект|[Папка](https://github.com/sturnerin/ProgrammingYearTwo/tree/master/FinalProject). Бота зовут @notgaimanbot, он работает с [pythonanywhere](https://www.pythonanywhere.com/user/athing/files/home/athing/script_tg_bot.py).
 
 ![](https://wmpics.pics/di-R3ME.jpg)
